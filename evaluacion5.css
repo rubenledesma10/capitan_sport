@@ -1,0 +1,605 @@
+body {
+	font-family: Lucida Bright;
+}
+
+header {
+	width: 960px;
+	background-color: #3c3c2a;
+	margin-left: auto;
+	margin-right: auto;
+	height: 200px;
+	background: url(cabecera3.jpg) no-repeat;   
+}
+
+#marca {
+	width: 400px;
+	height: 100px;
+	background-color: #66ffff;
+	margin-left: 60px;
+	margin-top: 50px;
+	float: left;
+	background: url(logocapitan.png) no-repeat;
+	background-size: contain;
+}
+
+#botonera {
+	width: 200px;
+	height: 50px;
+	float: right;
+
+	
+	}
+
+#botonera li {
+	display: inline;
+}
+
+#botonera li a {
+  	display:block;
+  	color: black;
+   	height: 50px;
+   	border: 1px black solid;
+	background-color:white;
+	line-height: 50px;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+#botonera li a:hover {
+	background-color: #999966;
+}
+
+section {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#preg_resp{
+	height: 400px;
+	background-color: #008000;
+	padding-top: 10px;
+    
+
+}
+
+#preg_respUsu {
+    width: 900px;
+	height: 350px;
+	margin: auto;
+    background-color: white;
+}
+
+#boca {
+	background-color: #000066;
+	height: 700px;
+	padding-top: 10px;
+	background: -webkit-linear-gradient(top,#000066 , #e6e600);
+}
+
+#boca_titulo {
+    width: 960px;
+	height: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.text_cabj {
+	color: black;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+#boca_a {
+	width: 300px;
+	height: 200px;
+	margin-top: 22px;
+	float: left;
+	margin-left: 10px;
+	background-color: yellow;
+	background: url(bocacampeon3.jpg) no-repeat;
+	background-size: contain;
+	border-radius: 20px;
+}
+
+#boca_b {
+	width: 300px;
+	height: 450px;
+	margin-right: 10px;
+	margin-top: 20px;
+	float: right;
+	text-align: justify;
+}
+
+#boca_c {
+width: 300px;
+height: 200px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 30px;
+background-color: #737373;
+background: url(bocaclasificado8.jpg) no-repeat;
+background-size: contain;
+border-radius: 20px;
+
+}
+
+#boca_d {
+	width: 300px;
+	height: 100px;
+	float: left;
+	margin-left: 10px;
+	text-align: justify;	
+	
+}
+
+#boca_e {
+width: 300px;
+height: 200px;
+margin-left: auto;
+margin-right: auto;
+text-align: justify;
+
+}
+
+.text_boca {
+	color: yellow;
+	font-size: 33px;
+	font-weight: bold;
+}
+
+#tomba {
+	background: -webkit-linear-gradient(left, #000099 40%, white);
+	height: 700px;
+	padding-top: 10px;
+}
+
+#tomba_titulo {
+	width: 960px;
+	height: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#tomba_a {
+	width: 300px;
+	height: 500px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 25px;
+	text-align: justify;
+
+}
+
+#tomba_b {
+	width: 500px;
+	height: 300px;
+	float: right;
+	margin-right: 50px;
+	margin-top: 85px;
+}
+
+.text_gc {
+	color: white;
+}
+
+.text_gc1 {
+	color: white;
+}
+
+#afa {
+	background: -webkit-linear-gradient(left, #3399ff, white, #3399ff, white);;
+	height: 800px;
+	padding-top: 15px;
+}
+
+#afa_titulo {
+	width: 960px;
+	height: 20px;
+	text-align: center;
+	font-weight: bold;
+}
+#afa_b {
+	width: 400px;
+	height: 300px;
+	margin-left: 30px;
+	margin-top: 60px;
+	float: left;
+
+}
+
+#afa_c {
+	width: 400px;
+	height: 400px;
+	margin-right: 20px;
+	margin-top: 60px;
+	float: right;
+
+}
+
+.text_afa {
+	color: black;
+}
+
+#messi {
+	height: 1400px;
+	background-color: #ffffcc;
+	padding-top: 10px;
+}
+
+#messi_mod {
+	height: 250px;
+	margin-top: 100px;
+}
+
+#messi_mod2 {
+	height: 250px;
+	margin-top: 100px;
+}
+
+input {
+	margin-bottom: 5px;
+}
+
+#messi_titulo {
+	width: 960px;
+	height: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+
+.text_messi{
+color: black;
+}
+
+.text_messi1 {
+	color: black;
+	text-align: justify;
+	font-weight: bold;
+}
+
+footer {
+	width: 960px;
+	background-color: black;
+	height: 120px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 10px;
+	text-align: center;
+
+}
+
+#contacto {
+    width: 100px;
+    height: 100px;
+    background: url(logocapitan.png) no-repeat;
+    background-size: contain;
+	float: right;
+	margin-top: auto;
+}
+
+.text_contacto {
+	font-family: Perpetua;
+	color: white;
+	font-weight: bold;	
+
+}
+
+
+/* RESOLUCION  */
+@media all and (min-width:  600px) and (max-width: 1023px){
+header {
+	width: 580px;
+	height: 355px;
+}
+
+
+#botonera {
+	width: 580px;
+	
+	}
+#botonera li a {
+ 	height: auto;
+
+}
+
+
+section {
+	width: 580px;
+	
+}
+
+#preg_resp{
+	width: 580px;
+	height: 750px;
+ 
+}
+
+#preg_respUsu {
+    width: 200px;
+	height: 650px;
+
+}
+
+#boca {
+	width: 580px;
+	height: 1050px ;
+
+}
+#boca_titulo {
+    width: 580px;
+
+}
+
+#boca_a {
+	width: 170px;
+
+}
+
+#boca_b {
+	width: 170px;
+ }
+
+#boca_c {
+width: 170px;
+
+}
+
+#boca_d {
+	width: 170px;
+
+}
+
+#boca_e {
+width: 170px;
+}
+
+#tomba_titulo {
+	width: 580px;
+}
+
+#tomba {
+	height: 1200px;
+}
+
+#tomba_a {
+	width: 170px;
+	height: 700px;
+
+}
+
+#tomba_b {
+width: 250px;
+background: no-repeat;
+
+}
+
+#afa {
+	height: 1200px;
+}
+
+#afa_titulo {
+	width: 580px;
+}
+
+
+#afa_b {
+	width:500px;
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+}
+
+#afa_c {
+	width:325px;
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 60px;
+
+
+}
+
+#messi {
+	height: 1600px;
+}
+
+#messi_titulo {
+	width: 580px;
+}
+
+footer {
+	width: 580px;
+	height: 150px;
+
+}
+
+#contacto {
+    width: 175px;
+
+}
+}
+
+/* media 599*/
+
+
+@media all and (max-width: 599px) {
+
+header {
+	width: 100%;
+	height: auto;
+}
+
+#marca {
+	width: 70%;
+	height: 100px;
+	float: none;
+
+}
+
+#botonera li {
+	display: block;
+}
+
+#botonera {
+	width: 100%;
+	height: auto;
+	float: none;
+
+}
+
+section {
+	width: 100%;
+    height: auto;
+}
+
+#preg_resp{
+	height: 1500px;
+
+}
+
+#preg_respUsu {
+    width: 70%;
+	height: 1000px;
+	background-color: white;
+	float: none;
+
+}
+
+
+#boca {
+	height: 1500px;
+
+}
+
+#boca_titulo {
+    width: 100%;
+	
+}
+
+
+#boca_a {
+	width: 70%;
+	float: none;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-bottom: auto;
+
+}
+
+#boca_b {
+	width: 70%;
+	height: auto;
+	float: none;
+	margin: auto;
+}
+
+#boca_c {
+width: 70%;
+}
+
+#boca_d {
+	width: 70%;
+	height: 150px;
+	float: none;
+	margin: auto;
+}
+
+#boca_e {
+width: 70%;
+height: 200px;
+
+}
+
+
+#tomba {
+    padding: 1px;
+	height: 1400px;
+}
+
+#tomba_titulo {
+	width: 100%;
+}
+
+
+#tomba_a {
+	width: 70%;
+	height: 500px;
+	float: none;
+
+}
+
+#tomba_b {
+    width: 70%;
+	height: 500px;
+	float: none;
+	background: no-repeat;
+	margin-left: 50px;
+}
+
+#afa {
+	
+	height: 1400px;
+
+}
+
+#afa_titulo {
+	width: 100%;
+
+}
+#afa_b {
+	width: 70%;
+	height: 200px;
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#afa_c {
+	width: 70%;
+	height: 200px;
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#messi {
+	height: 2200px;
+}
+
+#messi_titulo {
+	width: 100%;
+}
+
+#messi_b {
+	padding-top: 20px;
+}
+
+#messi_d {
+	padding-top: 20px;
+}
+
+footer {
+	width: 100%;
+	height: auto;
+}
+
+#contacto {
+    width: 70%;
+    height: 100px;
+    float: none;
+    margin: auto;
+}
+
+}
